@@ -4,7 +4,7 @@
   gap-3
   font-claude-message
   pr-9
-  relative
+  relative </div>
 <h1>Gemini Word Lookup Chrome Extension</h1>
 <p class="whitespace-pre-wrap">This Chrome extension is a handy tool that allows you to quickly look up word definitions and examples using the Gemini API. It provides a convenient way to enhance your vocabulary and understand the usage of words in context.</p>
 <h2>Features</h2>
