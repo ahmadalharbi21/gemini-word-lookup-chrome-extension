@@ -63,7 +63,7 @@
 <li class="whitespace-normal" index="3">The <code>transparent_background.py</code> script was used to remove the background from the video, resulting in a transparent background for the character.</li>
   <li class="whitespace-normal" index="4">Then utilize online tools to obtain the sprite sheet</li>
 </ol>
-<h2>Purpose and Limitations</h2>
+<h2>Purpose</h2>
 <p class="whitespace-pre-wrap">This project was developed as a learning exercise and to address a specific problem I encountered with YouTube's inability to directly copy captions from videos. While contributions are welcome, please keep in mind that this extension is primarily intended for personal use and may have limited applicability beyond the specific use case it was designed for.</p>
 <p class="whitespace-pre-wrap">If you have any questions or inquiries,:</p>
 <ul class="list-disc pl-8 space-y-2" depth="0">
