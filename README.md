@@ -9,6 +9,7 @@
 <h1>Gemini Word Lookup Chrome Extension</h1>
 <p class="whitespace-pre-wrap">This Chrome extension is a handy tool that allows you to quickly look up word definitions and examples using the Gemini API. It provides a convenient way to enhance your vocabulary and understand the usage of words in context.</p>
 <h2>Features</h2>
+<img src="/image.png" alt="Gemini Word Lookup Chrome Extension" align="right" width="200">
 <ul class="list-disc pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0"><strong>Word Explanation</strong>: Simply select a word and click the "Explain" button to retrieve its definition and examples using the Gemini API. The extension will display the information in a user-friendly manner.</li>
 <li class="whitespace-normal" index="1"><strong>YouTube Caption Retrieval</strong>: When you're watching a video on YouTube, this extension enables you to easily retrieve the captions. Click the "Caption" button once to retrieve the upper caption, and click it again to retrieve the lower caption. The captions will be appended to the text area for easy reading or copying.</li>
