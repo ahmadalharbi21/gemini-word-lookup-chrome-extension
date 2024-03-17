@@ -51,7 +51,7 @@
 <ol class="list-decimal pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0">To look up a word, simply select the word on any webpage and click the extension icon. Then, click the "Explain" button to retrieve its definition and examples.</li>
 <li class="whitespace-normal" index="1">When watching a YouTube video, click the extension icon and then click the "Caption" button once to retrieve the upper caption. Click it again to retrieve the lower caption. The captions will be appended to the text area for easy reading or copying.</li>
-<li class="whitespace-normal" index="2">If you want to remove specific characters from the retrieved HTML content, toggle the switch provided in the extension's popup window.</li>
+<li class="whitespace-normal" index="2">If you want to hide the characters from the HTML content, toggle the switch provided in the extension's popup window.</li>
 <li class="whitespace-normal" index="3">To see the interactive character perform push-ups, hold the Control key while the extension is active.</li>
 </ol>
 <h2>Interactive Character Development</h2>
@@ -63,8 +63,8 @@
 <li class="whitespace-normal" index="3">The <code>transparent_background.py</code> script was used to remove the background from the video, resulting in a transparent background for the character.</li>
   <li class="whitespace-normal" index="4">Then utilize online tools to obtain the sprite sheet</li>
 </ol>
-<h2>Contributing</h2>
-<p class="whitespace-pre-wrap">Contributions to the Gemini Word Lookup Chrome Extension are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the GitHub repository. If you'd like to contribute code improvements, feel free to fork the repository and submit a pull request.</p>
+<h2>Purpose and Limitations</h2>
+<p class="whitespace-pre-wrap">This project was developed as a learning exercise and to address a specific problem I encountered with YouTube's inability to directly copy captions from videos. While contributions are welcome, please keep in mind that this extension is primarily intended for personal use and may have limited applicability beyond the specific use case it was designed for.</p>
 <p class="whitespace-pre-wrap">If you have any questions or inquiries,:</p>
 <ul class="list-disc pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0">Name: Ahmad Alharbi</li>
