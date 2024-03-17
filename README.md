@@ -38,11 +38,13 @@
 <h2>Installation</h2>
 <p class="whitespace-pre-wrap">To install the Gemini Word Lookup Chrome Extension, follow these steps:</p>
 <ol class="list-decimal pl-8 space-y-2" depth="0">
-<li class="whitespace-normal" index="0">Clone the repository or download the source code as a ZIP file.</li>
-<li class="whitespace-normal" index="1">Open Google Chrome and navigate to the Extensions page (chrome://extensions/).</li>
-<li class="whitespace-normal" index="2">Enable the "Developer mode" toggle switch located in the top right corner.</li>
-<li class="whitespace-normal" index="3">Click on the "Load unpacked" button and select the directory where you cloned or extracted the extension's source code.</li>
-<li class="whitespace-normal" index="4">The Gemini Word Lookup Chrome Extension should now be installed and visible in your Chrome browser.</li>
+<li class="whitespace-normal" index="1">make sure to use your api key in new_flask pytohn file.</li>
+<li class="whitespace-normal" index="2">Clone the repository or download the source code as a ZIP file.</li>
+<li class="whitespace-normal" index="3">Open Google Chrome and navigate to the Extensions page (chrome://extensions/).</li>
+<li class="whitespace-normal" index="4">Enable the "Developer mode" toggle switch located in the top right corner.</li>
+<li class="whitespace-normal" index="5">Click on the "Load unpacked" button and select the directory where you cloned or extracted the extension's source code.</li>
+<li class="whitespace-normal" index="6">The Gemini Word Lookup Chrome Extension should now be installed and visible in your Chrome browser.</li>
+
 </ol>
 <h2>Usage</h2>
 <ol class="list-decimal pl-8 space-y-2" depth="0">
