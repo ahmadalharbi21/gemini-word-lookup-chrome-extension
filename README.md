@@ -13,8 +13,8 @@
 <ul class="list-disc pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0"><strong>Word Explanation</strong>: Simply select a word and click the "Explain" button to retrieve its definition and examples using the Gemini API. The extension will display the information in a user-friendly manner.</li>
 <li class="whitespace-normal" index="1"><strong>YouTube Caption Retrieval</strong>: When you're watching a video on YouTube, this extension enables you to easily retrieve the captions. Click the "Caption" button once to retrieve the upper caption, and click it again to retrieve the lower caption. The captions will be appended to the text area for easy reading or copying.</li>
-<li class="whitespace-normal" index="2"><strong>Character Removal Toggle</strong>: The extension includes a toggle switch that allows you to remove specific characters from the retrieved HTML content. This feature is particularly useful when you want to clean up the text and remove any unwanted characters or formatting.</li>
-<li class="whitespace-normal" index="3"><strong>Interactive Character</strong>: The extension features an interactive character that performs push-ups when you hold the Control key. This adds a fun and engaging element to the user experience.</li>
+<li class="whitespace-normal" index="2"><strong>Character Removal Toggle</strong>: The extension includes a toggle switch that allows you to remove the characters from the HTML content.</li>
+<li class="whitespace-normal" index="3"><strong>Interactive Character</strong>: The extension features an interactive character that performs push-ups when you hold the Control key.</li>
 </ul>
 <h2>Requirements</h2>
 <p class="whitespace-pre-wrap">The Gemini Word Lookup Chrome Extension requires the following Python libraries:</p>
