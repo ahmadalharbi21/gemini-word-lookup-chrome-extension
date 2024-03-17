@@ -69,6 +69,6 @@
 <ul class="list-disc pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0">Name: Ahmad Alharbi</li>
 <li class="whitespace-normal" index="2">GitHub: <a target="_blank" href="https://github.com/ahmadalharbi21">ahmadalharbi21</a></li>
-<li class="whitespace-normal" index="3">Linkedin: <a target="_blank" href="[https://github.com/ahmadalharbi21](https://www.linkedin.com/in/ahmad-alharbi-44723125a/)">Linkedin</a></li>
+<li class="whitespace-normal" index="3">Linkedin: <a target="_blank" href="https://www.linkedin.com/in/ahmad-alharbi-44723125a/">Linkedin</a></li>
 </ul>
 <p class="whitespace-pre-wrap">Feel free to reach out with any feedback or concerns.</p></div></div>
