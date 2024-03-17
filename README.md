@@ -65,9 +65,10 @@
 </ol>
 <h2>Contributing</h2>
 <p class="whitespace-pre-wrap">Contributions to the Gemini Word Lookup Chrome Extension are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the GitHub repository. If you'd like to contribute code improvements, feel free to fork the repository and submit a pull request.</p>
-<p class="whitespace-pre-wrap">If you have any questions or inquiries, please contact the project maintainer:</p>
+<p class="whitespace-pre-wrap">If you have any questions or inquiries,:</p>
 <ul class="list-disc pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0">Name: Ahmad Alharbi</li>
 <li class="whitespace-normal" index="2">GitHub: <a target="_blank" href="https://github.com/ahmadalharbi21">ahmadalharbi21</a></li>
+<li class="whitespace-normal" index="2">Linkedin: <a target="_blank" href="https://github.com/ahmadalharbi21">[ahmadalharbi21](https://www.linkedin.com/in/ahmad-alharbi-44723125a/)</a></li>
 </ul>
 <p class="whitespace-pre-wrap">Feel free to reach out with any feedback or concerns.</p></div></div>
