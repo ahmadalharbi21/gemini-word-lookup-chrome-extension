@@ -60,6 +60,7 @@
 <li class="whitespace-normal" index="1">Adobe Premiere Pro was used to cut the character from the video.</li>
 <li class="whitespace-normal" index="2">After Effects was used to refine the character's appearance and remove the background.</li>
 <li class="whitespace-normal" index="3">The <code>transparent_background.py</code> script was used to remove the background from the video, resulting in a transparent background for the character.</li>
+  <li class="whitespace-normal" index="4">Then utilize online tools to obtain the sprite sheet</li>
 </ol>
 <h2>Contributing</h2>
 <p class="whitespace-pre-wrap">Contributions to the Gemini Word Lookup Chrome Extension are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the GitHub repository. If you'd like to contribute code improvements, feel free to fork the repository and submit a pull request.</p>
