@@ -68,7 +68,6 @@
 <p class="whitespace-pre-wrap">If you have any questions or inquiries, please contact the project maintainer:</p>
 <ul class="list-disc pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0">Name: Ahmad Alharbi</li>
-<li class="whitespace-normal" index="1">Email: <a target="_blank" href="mailto:ahmad@example.com">ahmad@example.com</a></li>
 <li class="whitespace-normal" index="2">GitHub: <a target="_blank" href="https://github.com/ahmadalharbi21">ahmadalharbi21</a></li>
 </ul>
 <p class="whitespace-pre-wrap">Feel free to reach out with any feedback or concerns.</p></div></div>
