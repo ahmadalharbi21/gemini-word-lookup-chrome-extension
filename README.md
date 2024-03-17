@@ -43,9 +43,6 @@
 </ol>
 <h2>Contributing</h2>
 <p class="whitespace-pre-wrap">Contributions to the Gemini Word Lookup Chrome Extension are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the GitHub repository. If you'd like to contribute code improvements, feel free to fork the repository and submit a pull request.</p>
-<h2>License</h2>
-<p class="whitespace-pre-wrap">This project is licensed under the <a target="_blank" href="LICENSE">MIT License</a>.</p>
-<h2>Contact</h2>
 <p class="whitespace-pre-wrap">If you have any questions or inquiries, please contact the project maintainer:</p>
 <ul class="list-disc pl-8 space-y-2" depth="0">
 <li class="whitespace-normal" index="0">Name: Ahmad Alharbi</li>
